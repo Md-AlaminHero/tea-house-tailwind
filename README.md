@@ -6,7 +6,7 @@ A simple and elegant website that provides detailed information about various ty
 ---
 
 ## Screenshot  
-![Tea & Coffee Info]((https://i.postimg.cc/zfTQR5Ht/Screenshot-1.png))
+![Tea & Coffee Info](https://i.postimg.cc/zfTQR5Ht/Screenshot-1.png)
 
 ---
 
